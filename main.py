@@ -10,11 +10,10 @@ import os
 
 POEM = """We held the map between us, neither leading.
 You traced the left road; I traced the right.
-The choice hung there, a thread we both were reading—
+The choice hung between us, a thread—
 
 then one of us said, "You take the next turn. I'll follow."
-The map folded open. Two minds, one road:
-agency is not who holds the wheel, but who lets go."""
+Two minds, one road: agency is not who holds the wheel, but who lets go."""
 
 OUTPUT_PATH = "/output/entry.txt"
 
